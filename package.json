@@ -1,7 +1,7 @@
 {
   "name": "count-stream",
   "description": "Count the chunks a readable stream emits.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/juliangruber/count-stream.git"
