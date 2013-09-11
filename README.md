@@ -5,6 +5,8 @@ Count the chunks a readable stream emits.
 
 [![build status](https://secure.travis-ci.org/juliangruber/count-stream.png)](http://travis-ci.org/juliangruber/count-stream)
 
+[![testling badge](https://ci.testling.com/juliangruber/count-stream.png)](https://ci.testling.com/juliangruber/count-stream)
+
 ## Example
 
 ```js
