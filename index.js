@@ -1,4 +1,5 @@
-var Transform = require('stream').Transform;
+var Transform = require('stream').Transform
+  || require('readable-stream').Transform;
 var once = require('once');
 
 module.exports = countStream;
