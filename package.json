@@ -12,11 +12,11 @@
     "test": "tape test.js"
   },
   "dependencies": {
-    "once": "~1.2.0",
-    "readable-stream": "~1.1.8"
+    "once": "~1.4.0",
+    "readable-stream": "~2.1.5"
   },
   "devDependencies": {
-    "tape": "~1.1.0"
+    "tape": "~4.6.2"
   },
   "keywords": [
     "count",
